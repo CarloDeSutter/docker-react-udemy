@@ -11,6 +11,7 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
             Hi there again in production mode.
+            I was changed again.
           </p>
           <a
             className="App-link"
